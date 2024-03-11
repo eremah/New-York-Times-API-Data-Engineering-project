@@ -6,7 +6,7 @@ The steps involved can be summarized to include the following:
 2. Storage of these data in a Postgre database.
 3. Using sqlAlchemy to link the python code to the database.
 4. Connection of FastApi framework to the NYT database.
-5. Dockerisation of the entire project for deployment.
+5. Contenarisation of the entire project for deployment with docker.
 
 ## Project General Architechure
 
