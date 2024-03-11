@@ -8,6 +8,6 @@ The steps involved can be summarized to include the following:
 4. Connection of FastApi framework to the NYT database.
 5. Dockerisation of the entire project for deployment.
 
-#3 Project General Architechure
+## Project General Architechure
 
 ![Beter one](https://github.com/eremah/New-York-Times-API-Data-Engineering-project/assets/75796623/fd80c8c3-fc92-4f58-a314-1e7e5724552c)
