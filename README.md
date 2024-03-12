@@ -1,4 +1,4 @@
-## PROJECT DESCRIPTION
+## OVERVIEW
 
 The goal of this Data Engineering project is to recreate the New York Times Api.
 The steps involved can be summarized to include the following:
